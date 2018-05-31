@@ -1,6 +1,6 @@
 # hw9
 regular expressions
 задание 1. воспользовавшись формулой ^\s+ я удалила все пустые строки
-![](https://pp.userapi.com/c846320/v846320735/649b6/p3Uw_d6mEl0.
+![](https://github.com/gurinaarina/hw9/blob/master/wu0.PNG?raw=true"")
 задание 2. [А-ЯѢ]+[а-яѣ]+(слав)[а-яѣ]+ . Всего найдено 564 вхождения.
-![](https://pp.userapi.com/c830308/v830308735/115d39/INbHFKAjavE.jpg"")
+![]("")
