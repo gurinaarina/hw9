@@ -1,4 +1,4 @@
-# result.txt
+# hw9
 regular expressions
 задание 1. воспользовавшись формулой ^\s+ я удалила все пустые строки
 ![](https://github.com/gurinaarina/hw9/blob/master/wu0.PNG?raw=true"")
